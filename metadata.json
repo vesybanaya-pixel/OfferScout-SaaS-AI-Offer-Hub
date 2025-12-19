@@ -1,0 +1,7 @@
+{
+  "name": "Copy of OfferScout SaaS & AI Offer Hub",
+  "description": "A professional platform to discover, verify, and share publicly available free offers, trials, and promo codes for AI tools, developer platforms, and SaaS products.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
